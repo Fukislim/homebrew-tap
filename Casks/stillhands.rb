@@ -1,6 +1,6 @@
 cask "stillhands" do
-  version "0.1.0"
-  sha256 "41adb39d80c6f352da912e372aed579de488a358bc71864629df6ae91c9b3f9b"
+  version "0.2.0"
+  sha256 "f71bf1f945b4edb7ab02ec385ccbc773eb5c0ae309add08f0ce4f02dc44d0c0e"
 
   url "https://github.com/fukislim/stillhands/releases/download/v#{version}/Stillhands-#{version}.zip"
   name "Stillhands"
